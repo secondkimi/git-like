@@ -1,0 +1,10 @@
+http://www.tutorialspoint.com/java/java_serialization.htm (serialization)
+http://datastructur.es/sp15/materials/lab/lab9/lab9.html (project discussion)
+http://datastructur.es/sp15/materials/proj/proj2/proj2.html (project writeup)
+
+Basic architecture
+
+what you need for instance variable of the Gitlet.java class?
+1, head pointer, a CommitNode
+2, a hashmap with key the branch name and the value the newest Node in that branch
+(used for git checkout branchName)
